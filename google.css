@@ -1,0 +1,56 @@
+.body {
+    background-color: rgb(255, 255, 255);
+    font-size: medium;
+    
+    
+}
+
+.box1 {
+    background-color: rgb(238, 238, 238);
+    width: 1204px;
+    height: 62px;
+    margin-left: 70px;
+    margin-right: 20px;
+    float: left;
+}
+
+/* arama çubuğu .box2 */
+
+.box2 {
+    width: 450px;
+    height: 77px;
+    background-color: #70ccc2;
+    margin: 2px 0px 2px 70px;
+    float: left;
+    padding-top: 10px;
+}
+.box3 {
+    width: 300px;
+    height: 77px;
+    background-color:#70ccc2;
+    margin: 2px 0px 2px 2px;
+    padding-top: 10px;
+    float: left;
+}
+
+.a {
+font-size: -1;
+}
+
+.box4 {
+    width: 450px;
+    height: 77px;
+    background-color: #70ccc2;
+    padding-top: 10px;
+    float: left;
+    margin: 2px 45px 15px 2px;
+}
+
+.box5 {
+width: 795px;
+height: 16;
+margin: 5px 200px 0px 290px ;
+padding-top: 15px;
+}
+
+
